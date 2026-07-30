@@ -2,6 +2,10 @@
 Short reference for bash
 
 ## Table of Contents
+- [Setup](./setup/README.md)
+    - [Version](./setup/README.md#version)
+    - [Install](./setup/README.md#install)
+    - [Example](./setup/README.md#example)
 
 ## Contributions
 
