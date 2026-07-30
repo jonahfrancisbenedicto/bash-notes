@@ -6,7 +6,7 @@ Short reference for bash
     - [Version](./setup/README.md#version)
     - [Install](./setup/README.md#install)
     - [Example](./setup/README.md#example)
-- [Commands](./commands/README.md)
+- Commands
     - [List](./ls/README.md)
     - [Change Directory](./cd/README.md)
     - [Print Working Directory](./pwd/README.md)
