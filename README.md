@@ -6,6 +6,19 @@ Short reference for bash
     - [Version](./setup/README.md#version)
     - [Install](./setup/README.md#install)
     - [Example](./setup/README.md#example)
+- [Commands](./commands/README.md)
+    - [List](./ls/README.md)
+    - [Change Directory](./cd/README.md)
+    - [Print Working Directory](./pwd/README.md)
+    - [Echo](./echo/README.md)
+    - [Concatenate](./cat/README.md)
+    - [Copy](./copy/README.md)
+    - [Move](./move/README.md)
+    - [Remove](./remove/README.md)
+    - [Touch](./touch/README.md)
+    - [Make Directory](./mkdir/README.md)
+    - [Manual](./man/README.md)
+    - [Alias](./alias/README.md)
 
 ## Contributions
 
