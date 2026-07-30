@@ -11,7 +11,7 @@ Short reference for bash
     - [Change Directory](./cd/README.md)
     - [Print Working Directory](./pwd/README.md)
     - [Echo](./echo/README.md)
-    - [Concatenate](./cat/README.md)
+    - [Catenate](./cat/README.md)
     - [Copy](./copy/README.md)
     - [Move](./move/README.md)
     - [Remove](./remove/README.md)
