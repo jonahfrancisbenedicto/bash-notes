@@ -1,0 +1,4 @@
+# man
+Manual
+
+`man [command]`
